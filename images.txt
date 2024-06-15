@@ -1,4 +1,4 @@
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-zerotier/ZeroTierOne
+zerotier/zerotierone
