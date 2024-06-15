@@ -1,6 +1,4 @@
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
-zerotierone
-zerotier/zerotierone
-
+zerotier/zerotier-synology:latest
