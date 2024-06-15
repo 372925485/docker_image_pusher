@@ -3,3 +3,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 zerotierone
 zerotier/zerotierone
+
