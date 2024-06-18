@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 zerotier/zerotier-synology:latest
-alist-org/alist
+372925485/alist
 
